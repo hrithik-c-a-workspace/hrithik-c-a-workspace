@@ -1,7 +1,7 @@
 ---
 
 👋 **Hi, I'm Hrithik!**  
-🚀 **Aspiring Cloud Security & DevSecOps Engineer | AWS | Terraform | Python**  
+🚀 **Aspiring DevSecOps Practitioner | AWS | Terraform | Python**  
 
 🔹 Passionate about **cloud security, scripting, automation, and computers**.  
 🔹 Building hands-on **IAM security, Terraform, and CI/CD automation** projects.  
