@@ -4,8 +4,7 @@
 🚀 **Aspiring DevSecOps Practitioner | AWS | Terraform | Python**  
 
 🔹 Passionate about **cloud security, scripting, automation, and computers**.  
-🔹 Building hands-on **IAM security, Terraform, and CI/CD automation** projects.  
-🔹 **AWS Certified Cloud Practitioner (CLF-C02) | Terraform Associate (Upcoming)**  
+🔹 **AWS Certified Cloud Practitioner (CLF-C02) (Upcoming) | Terraform Associate (Upcoming)**  
 
 📫 **Find me on:** [GitHub](https://github.com/hrithik-c-a-workspace) 
 
