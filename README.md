@@ -4,6 +4,7 @@
 🚀 **Aspiring DevOps Practitioner | Linux | Python**  
 
 🔹 Passionate about **Computers, scripting and automation**.
+
 🔹 I use Fedora Silverblue BTW.
 
 
