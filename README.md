@@ -3,7 +3,7 @@
 👋 **Hi, I'm Hrithik!**  
 🚀 **Aspiring DevOps Practitioner | Linux | Python**  
 
-🔹 Passionate about **Linux, scripting and automation**.
+🔹 Passionate about **Computers, scripting and automation**.
 🔹 I use Fedora Silverblue BTW.
 
 
