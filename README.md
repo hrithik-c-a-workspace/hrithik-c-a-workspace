@@ -1,10 +1,11 @@
 ---
 
 👋 **Hi, I'm Hrithik!**  
-🚀 **Aspiring Cloud Computing Associate | AWS | Python**  
+🚀 **Aspiring DevOps Practitioner | Linux | Python**  
 
-🔹 Passionate about **cloud security, scripting and automation**.  
-🔹 **AWS Certified Cloud Practitioner (CLF-C02) (Upcoming)**  
+🔹 Passionate about **Linux, scripting and automation**.
+🔹 I use Fedora Silverblue BTW.
+
 
 📫 **Find me on:** [GitHub](https://github.com/hrithik-c-a-workspace) 
 
