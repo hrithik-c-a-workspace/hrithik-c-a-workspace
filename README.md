@@ -1,14 +1,9 @@
 ---
 
-👋 **Hi, I'm Hrithik!**  
-🚀 **Aspiring DevOps Practitioner | Linux | Python**  
+## Hi, I'm Hrithik 👋
 
-🔹 Passionate about **Computers, scripting and automation**.
-
-🔹 I use Fedora Silverblue BTW.
-
-
-📫 **Find me on:** [GitHub](https://github.com/hrithik-c-a-workspace) 
+Aspiring **System Administrator** passionate about **Linux, Python Automation, and DevOps**.
+Currently refining my skills in **Fedora Silverblue**, automation, and cloud-based infrastructure.
 
 ---
 
